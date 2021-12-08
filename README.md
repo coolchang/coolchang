@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent Kim.
 - 👀 I’m interested in combining English education with blockchain Games and building cross platform blockchain games to teach English with digitally tangible rewards (crypto currency).
 - 🌱 I’m currently learning Gamification, Web Game development and Blockchain app building.
-- 💞️ I’m looking to collaborate on a projects of educational games and DAO for Equity in education.
+- 💞️ I’m looking to collaborate on projects of educational games and DAO for Equity in education.
 - 📫 How to reach me : email me songnchant@gmail.com
 
 <!---
