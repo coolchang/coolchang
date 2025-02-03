@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Vincent Kim.
-- 👀 I’m interested in combining English education with blockchain Games and building cross platform blockchain games to teach English with digitally tangible rewards (crypto currency).
-- 🌱 I’m currently learning Gamification, Web Game development and Blockchain app building.
-- 💞️ I’m looking to collaborate on projects of educational games and DAO for Equity in education.
-- 📫 How to reach me : email me songnchant@gmail.com
+👋 Hi, I’m Vincent Kim.
+👀 I’m passionate about integrating English education with blockchain-based games, creating cross-platform blockchain games that offer digitally tangible rewards (cryptocurrency) for language learning.
+🌱 Currently, I’m exploring gamification, web game development, and blockchain application building.
+💞️ I’m eager to collaborate on projects related to educational games and decentralized autonomous organizations (DAOs) for equitable education.
+📫 Feel free to reach out to me at songnchant@gmail.com.
 
 <!---
 coolchang/coolchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
